@@ -19,4 +19,4 @@
 
 ## 予定スタック
 
-Vite + React + TypeScript + Tailwind CSS + Zustand / PWA(GitHub Pages) / Cloudflare Workers(APIプロキシ+配達リレー) / Anthropic API
+Vite + React + TypeScript + Tailwind CSS + Zustand / PWA(GitHub Pages) / Cloudflare Workers(配達リレー) / Google Gemini API 無料枠(翻訳AI)
